@@ -1,0 +1,43 @@
+------------------------------------      Transactions
+Date: Fri Jun 06 23:23:40 PST 2025
+Username: Rafael
+------------------------------------Product                   Qty        Price      Total     
+Cone Ice Cream            1          20.00      20.00     
+------------------------------------Total: 20.00 PHP
+------------------------------------
+------------------------------------      Transactions
+Date: Fri Jun 06 23:26:29 PST 2025
+Username: Rafael
+------------------------------------Product                   Qty        Price      Total     
+Cone Ice Cream            3          20.00      60.00     
+Cup Ice Cream             5          25.00      125.00    
+Bread Ice Cream           5          30.00      150.00    
+Special Ice Cream Cup     2          40.00      80.00     
+Deluxe Ice Cream Cup      1          50.00      50.00     
+------------------------------------
+Total: 465.00 PHP
+------------------------------------
+------------------------------------      Transactions
+Date: Fri Jun 06 23:29:55 PST 2025
+Username: Rafael
+------------------------------------Product                   Qty        Price      Total     
+Cone Ice Cream            1          20.00      20.00     
+Cup Ice Cream             2          25.00      50.00     
+Bread Ice Cream           3          30.00      90.00     
+Special Ice Cream Cup     4          40.00      160.00    
+Deluxe Ice Cream Cup      0          50.00      0.00      
+------------------------------------
+Total: 320.00 PHP
+------------------------------------
+------------------------------------      Transactions
+Date: Fri Jun 06 23:30:40 PST 2025
+Username: Rafael
+------------------------------------Product                   Qty        Price      Total     
+Cone Ice Cream            1          20.00      20.00     
+Cup Ice Cream             3          25.00      75.00     
+Bread Ice Cream           4          30.00      120.00    
+Special Ice Cream Cup     4          40.00      160.00    
+Deluxe Ice Cream Cup      1          50.00      50.00     
+------------------------------------
+Total: 425.00 PHP
+------------------------------------
